@@ -1,0 +1,17 @@
+database/
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
